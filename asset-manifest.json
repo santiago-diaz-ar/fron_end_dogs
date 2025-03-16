@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/santiago-diaz-ar/fron_end_dogs.git/static/css/main.13039161.css",
+    "main.js": "/santiago-diaz-ar/fron_end_dogs.git/static/js/main.a109b2b2.js",
+    "static/media/37963.jpg": "/santiago-diaz-ar/fron_end_dogs.git/static/media/37963.f3351d38bea3603e55bb.jpg",
+    "index.html": "/santiago-diaz-ar/fron_end_dogs.git/index.html",
+    "main.13039161.css.map": "/santiago-diaz-ar/fron_end_dogs.git/static/css/main.13039161.css.map",
+    "main.a109b2b2.js.map": "/santiago-diaz-ar/fron_end_dogs.git/static/js/main.a109b2b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13039161.css",
+    "static/js/main.a109b2b2.js"
+  ]
+}
