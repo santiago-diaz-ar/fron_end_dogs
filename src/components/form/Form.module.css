@@ -1,0 +1,112 @@
+.form {
+  min-height: 60rem;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.buttonVolver {
+  border: 2px solid chocolate;
+  font-size: 1rem;
+  background-color: chocolate;
+  border-radius: 10px;
+  margin-top: 1.4rem;
+}
+.buttonVolver:hover {
+  background-color: rgb(82, 82, 208);
+}
+.buttonAgregar {
+  border: 2px solid chocolate;
+  font-size: 1.1rem;
+  background-color: chocolate;
+  border-radius: 10px;
+  margin-top: 1.4rem;
+  color: black;
+}
+.buttonAgregar:hover {
+  background-color: rgb(82, 82, 208);
+  color:aliceblue;
+}
+.agregarRaza {
+  border: 2px solid chocolate;
+  font-size: 1.3rem;
+  background-color: tomato;
+  border-radius: 10px;
+  color: aliceblue;
+  margin-top: 2rem;
+  display: flex;
+}
+.name {
+  border: 2px solid chocolate;
+  font-size: 1.1rem;
+  border-radius: 10px;
+}
+.alturaMax {
+  border: 2px solid chocolate;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  margin-top: 4px;
+}
+.alturaMin {
+  border: 2px solid chocolate;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  margin-top: 4px;
+}
+.pesoMax {
+  border: 2px solid chocolate;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  margin-top: 4px;
+}
+.pesoMin {
+  border: 2px solid chocolate;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  margin-top: 4px;
+}
+.life_span {
+  border: 2px solid chocolate;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  margin-top: 4px;
+}
+.image {
+  border: 2px solid chocolate;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  margin-top: 4px;
+}
+.prueba {
+  border: 2px solid chocolate;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  margin-top: 4px;
+}
+.lista {
+  border: 2px solid chocolate;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  margin-top: 4px;
+  background-color: tomato;
+  color: aliceblue;
+}
+.addtemper {
+  border: 2px solid chocolate;
+  font-size: 1rem;
+  border-radius: 10px;
+  margin-top: 4px;
+  color: aliceblue;
+  background-color: chocolate;
+}
+.x {
+  border-radius: 7px;
+}
+.x:hover {
+  background-color: red;
+  color: aliceblue;
+}
+

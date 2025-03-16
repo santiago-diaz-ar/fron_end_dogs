@@ -1,0 +1,77 @@
+/* .caja {
+  background-color: rgba(255, 235, 205, 0.457);
+  font-weight: bold;
+  width: 15rem;
+  margin: 25px;
+  display: flex;
+ 
+  flex-wrap: wrap;
+  min-height: 24rem;
+  border-radius: 2rem;
+  align-items: center;
+  text-align: center;
+}
+.name {
+  border-radius: 2rem;
+  color: blue;
+}
+.titulo {
+  position: relative;
+  top: 10px;
+  color: blue;
+  font-size: 15px;
+}
+.temper {
+  font-size: 10px;
+  flex-wrap: wrap;
+}
+.prueba {
+  font-size: 10px;
+} */
+.image {
+  display: flex;
+  height: 200px;
+  width: 100%;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%; /* o el ancho deseado del div */
+  overflow: hidden;
+  border-radius: 3rem;
+  align-items: center;
+}
+.cajas {
+  background-color: rgba(210, 105, 30, 0.728);
+  width: 16rem;
+  height: 25rem;
+  margin: 15px;
+  align-items: center;
+  text-align: center;
+  word-wrap: break-word;
+  border-radius: 2.5rem;
+}
+.name {
+  color: cornsilk;
+}
+.tituloTemper {
+  font-weight: bold;
+  color: cornsilk;
+  font-size: 1.3rem;
+}
+.temper {
+}
+
+.borrar {
+  border-radius: 0.6em;
+  background-color: coral;
+  position: relative;
+  left: 16.2rem;
+  bottom: 11.2rem;
+  display: flex;
+  flex-wrap: nowrap;
+  font-size: 1.2rem;
+}
+.borrar:hover {
+  background-color: white;
+}

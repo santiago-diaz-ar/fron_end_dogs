@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  height: 38rem;
+  text-align: center;
+  background-image: url("../image//37963.jpg"); /* Ruta de la imagen de fondo */
+  background-size: cover; /* Cubre toda la pantalla */
+  background-repeat: no-repeat; /* No se repite */
+  background-position: center center;
+}
+.caja {
+  margin: 4rem;
+}
+.titulo {
+  background-color: rgba(210, 105, 30, 0.463);
+  border-radius: 0.5rem;
+  border: 2px solid chocolate;
+  color: antiquewhite;
+}
+.texto {
+  position: relative;
+  height: 7rem;
+  margin-top: 3rem;
+  background-color: rgba(210, 105, 30, 0.352);
+  border-radius: 0.5rem;
+  color: antiquewhite;
+  border: 2px solid chocolate;
+}
+.button {
+  border: 2px solid chocolate;
+  font-size: 1.1rem;
+  background-color: chocolate;
+  border-radius: 10px;
+  margin-top: 0.3rem;
+  color: black;
+}
+.button:hover {
+  background-color: rgb(82, 82, 208);
+  color:aliceblue;
+}

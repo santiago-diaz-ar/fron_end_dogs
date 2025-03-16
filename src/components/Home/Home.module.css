@@ -1,0 +1,60 @@
+.tarjeta {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  min-height: 8.9rem;
+}
+.volver {
+  border: 2px solid chocolate;
+  font-size: 1rem;
+  background-color: chocolate;
+  border-radius: 10px;
+  position: relative;
+  margin-top: 12px;
+  bottom: 10px;
+}
+.selects {
+  position: relative;
+  top: 12px;
+}
+.order {
+  border: 2px solid chocolate;
+  position: relative;
+  left: -5px;
+  font-size: 1rem;
+  background-color: chocolate;
+  border-radius: 10px;
+}
+.peso {
+  border: 2px solid chocolate;
+  font-size: 1rem;
+  background-color: chocolate;
+  border-radius: 10px;
+}
+.filter {
+  border: 2px solid chocolate;
+  position: relative;
+  left: 5px;
+  font-size: 1rem;
+  background-color: chocolate;
+  border-radius: 10px;
+}
+.LinkForm {
+  position: relative;
+}
+.form {
+  position: relative;
+  margin-top: 20px;
+}
+.buttonForm {
+  font-size: 1rem;
+  border-radius: 10px;
+}
+

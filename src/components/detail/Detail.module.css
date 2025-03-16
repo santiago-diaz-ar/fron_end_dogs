@@ -1,0 +1,85 @@
+.container {
+  background-color: rgb(2, 1, 1);
+  display: flex;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 15px;
+}
+.buttonVolver {
+  margin-top: 20px;
+  border: 2px solid chocolate;
+  font-size: 1rem;
+  background-color: chocolate;
+  border-radius: 10px;
+  margin-top: 1.4rem;
+  border: 1px solid white;
+}
+.name {
+  margin-top: 20px;
+  border: 2px solid chocolate;
+  font-size: 1.7rem;
+  background-color: chocolate;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  border: 1px solid white;
+  color: navajowhite;
+}
+.image {
+  position: relative;
+  display: flex;
+  border-radius: 0px;
+  height: 500px;
+  width: 737px;
+  border-radius: 1.5rem;
+}
+.altura {
+  margin-top: -25px;
+  border: 2px solid chocolate;
+  font-size: 1.5rem;
+  background-color: chocolate;
+  border-radius: 10px;
+  align-items: center;
+  color: burlywood;
+}
+.alturah3 {
+  color: bisque;
+}
+.peso {
+  margin-top: -30px;
+  border: 2px solid chocolate;
+  font-size: 1.5rem;
+  background-color: chocolate;
+  border-radius: 10px;
+  align-items: center;
+  color: burlywood;
+}
+.pesoh3 {
+  color: bisque;
+}
+.temper {
+  margin-top: -35px;
+  border: 2px solid chocolate;
+  font-size: 1.5rem;
+  background-color: chocolate;
+  border-radius: 10px;
+  align-items: center;
+  color: burlywood;
+}
+.temperh3 {
+  color: bisque;
+}
+.life {
+  margin-top: -20px;
+  border: 2px solid chocolate;
+  font-size: 1.5rem;
+  background-color: chocolate;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  color: burlywood;
+}
+.lifeh3 {
+  color: bisque;
+}
