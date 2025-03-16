@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/santiago-diaz-ar/fron_end_dogs.git/static/css/main.13039161.css",
-    "main.js": "/santiago-diaz-ar/fron_end_dogs.git/static/js/main.a109b2b2.js",
-    "static/media/37963.jpg": "/santiago-diaz-ar/fron_end_dogs.git/static/media/37963.f3351d38bea3603e55bb.jpg",
-    "index.html": "/santiago-diaz-ar/fron_end_dogs.git/index.html",
-    "main.13039161.css.map": "/santiago-diaz-ar/fron_end_dogs.git/static/css/main.13039161.css.map",
-    "main.a109b2b2.js.map": "/santiago-diaz-ar/fron_end_dogs.git/static/js/main.a109b2b2.js.map"
+    "main.css": "/fron_end_dogs/static/css/main.6f9c017e.css",
+    "main.js": "/fron_end_dogs/static/js/main.a109b2b2.js",
+    "static/media/37963.jpg": "/fron_end_dogs/static/media/37963.f3351d38bea3603e55bb.jpg",
+    "index.html": "/fron_end_dogs/index.html",
+    "main.6f9c017e.css.map": "/fron_end_dogs/static/css/main.6f9c017e.css.map",
+    "main.a109b2b2.js.map": "/fron_end_dogs/static/js/main.a109b2b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.13039161.css",
+    "static/css/main.6f9c017e.css",
     "static/js/main.a109b2b2.js"
   ]
 }
